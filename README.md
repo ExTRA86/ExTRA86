@@ -4,14 +4,14 @@
 <img src="https://avatars.mds.yandex.net/get-dialogs/1644703/66b938b43ac29e5edb8d/orig" height="23"/></h1></h3>
 
 <h4 align="center">I love programming, finding solutions to complex and interesting tasks, learning and gaining new knowledge</h4>
-
-  <h3>My skills and stats</h3>
+<hr/>
+<h3>My skills and stats</h3>
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ExTRA86&show_icons=true&count_private=true"><img
-           height=150
+           height=170
            src="https://github-readme-stats.vercel.app/api?username=ExTRA86&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/ExTRA86/github-readme-stats"><img height=150
+   <a href="https://github.com/ExTRA86/github-readme-stats"><img height=170
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExTRA86&layout=compact"/></a>
 </p>
  <p align='center'>
