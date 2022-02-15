@@ -9,9 +9,9 @@
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ExTRA86&show_icons=true&count_private=true"><img
-           height=200
+           height=150
            src="https://github-readme-stats.vercel.app/api?username=ExTRA86&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/ExTRA86/github-readme-stats"><img height=200
+   <a href="https://github.com/ExTRA86/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExTRA86&layout=compact"/></a>
 </p>
  <p align='center'>
