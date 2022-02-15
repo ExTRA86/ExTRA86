@@ -3,7 +3,7 @@
 Frontend developer from Penza  
 <img src="https://avatars.mds.yandex.net/get-dialogs/1644703/66b938b43ac29e5edb8d/orig" height="23"/></h2>
 
-<h3 align="center">I love programming, finding solutions to complex and interesting tasks, learning and gaining new knowledge</h3>
+<h3 align="center">I love programming, finding solutions to complex and interesting tasks, learning and gaining new knowledge.</h3>
 
 <br/>
 
