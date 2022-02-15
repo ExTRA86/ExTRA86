@@ -10,9 +10,9 @@ Frontend developer from Penza
 <h3>My skills and stats</h3>
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=ExTRA86&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=ExTRA86"><img
            height=180
-           src="https://github-readme-stats.vercel.app/api?username=ExTRA86&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=ExTRA86"/></a>
    <a href="https://github.com/ExTRA86/github-readme-stats"><img height=180
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExTRA86&layout=compact"/></a>
 </p>
@@ -34,7 +34,6 @@ Frontend developer from Penza
 📫 You can email me: <a href='mailto:tuishev.r.86@gmail.com'>tuishev.r.86@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=ExTRA86)
-
   
 
 
